@@ -80,4 +80,4 @@ def get_coordinate(gps_info, coord_key, ref_key):
 
 
 # Appel de la fonction
-get_image_metadata(r"C:\Users\vita0\mon_env\photo0.jpg")
+get_image_metadata(r"GPS\photo0.jpg")
